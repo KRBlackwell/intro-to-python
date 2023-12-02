@@ -10,3 +10,4 @@ The following are links to the colab notebooks. If you have a google account, yo
 ### Numbers and math
 #### Data types and booleans
 * [02_numbers_and_math_booleans](https://colab.research.google.com/drive/1bcMiomxSx5I2IFwFPR2sqYhME7co6oEF?usp=sharing)
+* [02 numbers and math integers](https://colab.research.google.com/drive/1TjW2Zal8kIUgVSIpfIW2eK2ZG5KvVfnC?usp=sharing)
